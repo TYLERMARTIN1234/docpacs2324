@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^21.6.2",
+    "websockets": "^0.2.0"
+  }
+}
